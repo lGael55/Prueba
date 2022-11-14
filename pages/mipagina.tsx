@@ -3,7 +3,7 @@ import Typography, { H2 } from '../src/components/Typography'
 
 export default function mipagina() {
   return (
-    <Typography>Mi Pagina nueva</Typography>
+    <Typography>Pagina Gael</Typography>
     
   )
 }
